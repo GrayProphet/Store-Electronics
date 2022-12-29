@@ -1,8 +1,17 @@
 # ninja log v5
 4	70	6940416613290078	CMakeFiles/Store_Electronics.dir/ielectronics.cpp.obj	d22f5226ae24a232
-7	649	6940416619071379	CMakeFiles/Store_Electronics.dir/device.cpp.obj	83ce223fd8eb3a74
-18	674	6940416619311424	CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj	c8d13f701f1dbdb5
-14	678	6940416619361456	CMakeFiles/Store_Electronics.dir/player.cpp.obj	796dbc66d9dd7d87
 10	698	6940416619571490	CMakeFiles/Store_Electronics.dir/telephone.cpp.obj	9783c045737c0b8a
+7	649	6940416619071379	CMakeFiles/Store_Electronics.dir/device.cpp.obj	83ce223fd8eb3a74
 24	730	6940416619901558	CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj	18d3795778611f55
+18	674	6940416619311424	CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj	c8d13f701f1dbdb5
+2	176	6940423584215345	build.ninja	5d9357097e935e05
+14	678	6940416619361456	CMakeFiles/Store_Electronics.dir/player.cpp.obj	796dbc66d9dd7d87
 3	552	6940417067479607	CMakeFiles/Store_Electronics.dir/main.cpp.obj	2357accc6ac54abd
+1	177	6940423584215345	build.ninja	5d9357097e935e05
+3	68	6940423585485627	CMakeFiles/Store_Electronics.dir/ielectronics.cpp.obj	da7cf8b346263191
+9	476	6940423589536555	CMakeFiles/Store_Electronics.dir/player.cpp.obj	a4a5fd4eecf7f24c
+15	479	6940423589526557	CMakeFiles/Store_Electronics.dir/device.cpp.obj	99089e650b93e7be
+6	495	6940423589726595	CMakeFiles/Store_Electronics.dir/main.cpp.obj	d93d684a26a8daeb
+11	512	6940423589926628	CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj	e098904f9bcccf53
+24	520	6940423589996643	CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj	2713addb372e8e1d
+18	535	6940423590156676	CMakeFiles/Store_Electronics.dir/telephone.cpp.obj	e015d88292c2ba76

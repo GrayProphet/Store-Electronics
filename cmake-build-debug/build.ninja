@@ -51,43 +51,43 @@ build cmake_object_order_depends_target_Store_Electronics: phony || CMakeFiles/S
 
 build CMakeFiles/Store_Electronics.dir/main.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/main.cpp || cmake_object_order_depends_target_Store_Electronics
   DEP_FILE = CMakeFiles\Store_Electronics.dir\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
   OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
 
 build CMakeFiles/Store_Electronics.dir/ielectronics.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/ielectronics.cpp || cmake_object_order_depends_target_Store_Electronics
   DEP_FILE = CMakeFiles\Store_Electronics.dir\ielectronics.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
   OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
 
 build CMakeFiles/Store_Electronics.dir/device.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/device.cpp || cmake_object_order_depends_target_Store_Electronics
   DEP_FILE = CMakeFiles\Store_Electronics.dir\device.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
   OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
 
 build CMakeFiles/Store_Electronics.dir/player.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/player.cpp || cmake_object_order_depends_target_Store_Electronics
   DEP_FILE = CMakeFiles\Store_Electronics.dir\player.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
-  OBJECT_DIR = CMakeFiles\Store_Electronics.dir
-  OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
-
-build CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/smartPhone.cpp || cmake_object_order_depends_target_Store_Electronics
-  DEP_FILE = CMakeFiles\Store_Electronics.dir\smartPhone.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
   OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
 
 build CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/photoaparat.cpp || cmake_object_order_depends_target_Store_Electronics
   DEP_FILE = CMakeFiles\Store_Electronics.dir\photoaparat.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
   OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
 
 build CMakeFiles/Store_Electronics.dir/telephone.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/telephone.cpp || cmake_object_order_depends_target_Store_Electronics
   DEP_FILE = CMakeFiles\Store_Electronics.dir\telephone.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++20
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Store_Electronics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
+
+build CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj: CXX_COMPILER__Store_Electronics_Debug C$:/Users/bygra/Documents/dev/c+/Store-Electronics/smartPhone.cpp || cmake_object_order_depends_target_Store_Electronics
+  DEP_FILE = CMakeFiles\Store_Electronics.dir\smartPhone.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
   OBJECT_FILE_DIR = CMakeFiles\Store_Electronics.dir
 
@@ -99,7 +99,7 @@ build CMakeFiles/Store_Electronics.dir/telephone.cpp.obj: CXX_COMPILER__Store_El
 #############################################
 # Link the executable Store_Electronics.exe
 
-build Store_Electronics.exe: CXX_EXECUTABLE_LINKER__Store_Electronics_Debug CMakeFiles/Store_Electronics.dir/main.cpp.obj CMakeFiles/Store_Electronics.dir/ielectronics.cpp.obj CMakeFiles/Store_Electronics.dir/device.cpp.obj CMakeFiles/Store_Electronics.dir/player.cpp.obj CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj CMakeFiles/Store_Electronics.dir/telephone.cpp.obj
+build Store_Electronics.exe: CXX_EXECUTABLE_LINKER__Store_Electronics_Debug CMakeFiles/Store_Electronics.dir/main.cpp.obj CMakeFiles/Store_Electronics.dir/ielectronics.cpp.obj CMakeFiles/Store_Electronics.dir/device.cpp.obj CMakeFiles/Store_Electronics.dir/player.cpp.obj CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj CMakeFiles/Store_Electronics.dir/telephone.cpp.obj CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Store_Electronics.dir
