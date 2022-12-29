@@ -1,0 +1,8 @@
+# ninja log v5
+4	70	6940416613290078	CMakeFiles/Store_Electronics.dir/ielectronics.cpp.obj	d22f5226ae24a232
+7	649	6940416619071379	CMakeFiles/Store_Electronics.dir/device.cpp.obj	83ce223fd8eb3a74
+18	674	6940416619311424	CMakeFiles/Store_Electronics.dir/photoaparat.cpp.obj	c8d13f701f1dbdb5
+14	678	6940416619361456	CMakeFiles/Store_Electronics.dir/player.cpp.obj	796dbc66d9dd7d87
+10	698	6940416619571490	CMakeFiles/Store_Electronics.dir/telephone.cpp.obj	9783c045737c0b8a
+24	730	6940416619901558	CMakeFiles/Store_Electronics.dir/smartPhone.cpp.obj	18d3795778611f55
+3	552	6940417067479607	CMakeFiles/Store_Electronics.dir/main.cpp.obj	2357accc6ac54abd

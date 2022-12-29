@@ -1,0 +1,3 @@
+C:/Users/bygra/Documents/dev/c+/Store-Electronics/cmake-build-debug/CMakeFiles/Store_Electronics.dir
+C:/Users/bygra/Documents/dev/c+/Store-Electronics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bygra/Documents/dev/c+/Store-Electronics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
